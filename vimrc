@@ -1,3 +1,8 @@
+""""""""""""""""""""""""""""""""""""""""""""""""
+" My custom and small VIMRC
+" Written by MrMikaelDev
+""""""""""""""""""""""""""""""""""""""""""""""""
+
 set nocompatible
 let g:skip_defaults_vim = 1
 
