@@ -8,7 +8,7 @@ let g:skip_defaults_vim = 1
 
 syntax on
 color desert
-mouse-=a
+set mouse-=a
 
 set backspace=indent,eol,start
 set autoindent
