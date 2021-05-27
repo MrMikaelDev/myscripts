@@ -6,6 +6,8 @@
 set nocompatible
 let g:skip_defaults_vim = 1
 
+set modeline
+
 syntax on
 color desert
 set mouse-=a
